@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/05/2015, 12:38:39 PM
+    Author     : aprendiz
+*/
+body{
+    background-image: URL("FisioClock.jpg"); background-size: 2700px 1100px;
+}
+table{
+    position: relative; top: 20%; left: 40%;
+}
+h3{
+    font: x-large sans-serif; color: crimson; 
+}
+h1{
+    font: xx-large fantasy  ;color: dodgerblue;position: relative;top: 20%;left: 40%;
+    
+}
+
+p{
+        font:x-large cursive;color: black;
+    }
+    strong{
+        font: x-large initial ;color: darkorchid;
+    }
+    .tabl2{
+    border-style: solid;
+    border-width: 5px;
+    background-color: blueviolet;
+     font:x-large bold initial;color: white;
+    }
+    h4{
+        font:x-large fantasy;color: black; position: relative;top: 35%;left: 50%;
+    }
+  

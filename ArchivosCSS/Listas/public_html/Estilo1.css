@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/05/2015, 01:26:07 PM
+    Author     : aprendiz
+*/
+body{
+    background: #d5ffd0 URL("dog.jpg") center no-repeat;position:relative; top:1%;left: 40%;
+    
+}
+h1{position: relative;top: 5%;
+   color: deepskyblue;
+}
+table.especial{position:relative; top:5%;right: 15%; 
+    border: 4px solid red;      
+    font: x-large sans-serif ;color: blue;text-align: center;
+   
+}
+.especial caption{font:bold 1.5em Arial;color: mediumpurple}

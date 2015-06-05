@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/05/2015, 12:40:34 PM
+    Author     : aprendiz
+*/
+
+body{
+    background: URL("snoopy.png") repeat-y lightslategrey
+}
+.ta1{
+     position: relative;top: -230px ;left: 35%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table{
+   
+    background-color: grey;
+    position: relative;top: -200px ;left: 35%;
+    border: 5px solid white;
+    border-collapse: collapse;
+   
+}
+td, tr{
+    border: none;
+   
+}
+th{
+    font: xx-large fantasy ;color: white;
+    border-bottom: 5px solid white;
+    
+}
+p{
+    font: x-large serif ;color: white;
+}
+em.letra1{
+    color: darkorange;
+}
+em.letra2{
+    color: magenta;
+}
+p.parr{
+    position: relative;top: -250px; left: 30%;
+    font: x-large sans-serif; color: black;
+}
+p.titulo{
+    font: 8em sans-serif;color:black;position: relative; top:-120px;left: 35%;
+}
+
+em.let1{
+    color:magenta;
+}
+em.let2{
+    color:  darkorange;
+}
+em.let3{
+    color: blue;
+}
+.tableul{
+     background-color: grey;
+    position: relative;top: 10% ;left: 35%;
+    border: 5px solid white;
+    border-collapse: collapse;
+}
+.ult{
+    font:x-large serif;color:black;
+    position: relative;top: 20%; left:35%;
+}

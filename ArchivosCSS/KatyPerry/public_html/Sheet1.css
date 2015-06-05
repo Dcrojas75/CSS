@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/05/2015, 01:19:39 PM
+    Author     : aprendiz
+*/
+body{
+    background:cornflowerblue;
+}
+h1{
+    font: x-large monospace;color: palegreen;position: relative;
+}
+.primera{
+    font: x-large fantasy ;color: black;position: relative ;
+    
+}

@@ -1,0 +1,126 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22/05/2015, 12:08:09 PM
+    Author     : aprendiz
+*/
+
+body{
+   background: URL("snoopy.png") repeat-y #ddd ;
+   text-align: justify;
+   margin-left: 200px;
+}
+h1{
+    font-size: 600%;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+   position: relative;top: 10%;left: 35%
+}
+span{
+    border: 1px solid black;
+    padding: 5px;
+    position: relative; top: 25%; left: 35%;
+}
+div{
+   border: 5px solid white;
+   margin: 10px;
+}
+div#parr1,div#parra3{
+    background-color: gray;
+    color:white;
+   
+}
+div#parr1{
+      min-height: 230px;
+      font: x-large sans-serif;color: white;
+      
+}
+#parr1 {
+   border: 5px solid white;   
+}
+div#charlie{
+    margin-left: 120px;
+    font: x-large sans-serif;color:black;
+}
+h2,h3{
+    border-bottom: 5px solid white;
+    font: xx-large sans-serif;
+    
+}
+img.primeraimagen{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+div#fondo{
+    border:none;
+    background: URL("charliebrown.png") repeat-y   right #ddd;
+    padding-right: 110px;
+}
+img.izquierda{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+div#ulti{
+   border: none;
+   position: relative; top: 25%;left: 35%;
+   
+}
+
+.parr{
+    
+    font: x-large sans-serif;
+}
+.let1{
+    color:deeppink;
+}
+.let2{
+    color:orange;
+}
+.let3{
+    color: blue;
+}
+.letra1{
+    color:orange;
+}
+.letra2{
+    color:fuchsia;
+}
+.letr1{
+    font:x-large sans-serif;color: black
+}
+.letr2{
+    color:blue;
+}
+.le1{
+    color: blue;
+}
+.le2{
+    color:orange;
+}
+.parra3{
+    font: x-large sans-serif;color:black;
+}
+.l1{
+   color: blue; 
+}
+.parra4{
+    font:x-large sans-serif;color:black;
+}
+.lu{
+     color: blue; 
+}
+.parra5{
+    font:x-large sans-serif;color:black;
+}
+.pe{
+    color:orange;
+}
+.p1{
+     color:fuchsia;
+}
